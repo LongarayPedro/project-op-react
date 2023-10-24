@@ -28,35 +28,35 @@ function App() {
     <div>
       <main>
         <Character
-        img = "./src/image/personagem-monkey-d-luffy.png"
+        img = "image/personagem-monkey-d-luffy.png"
         alt = "Luffy"
         characterName = "Monkey D. Luffy"
         description = "Luffy"
         className = "character selected"
         />
         <Character
-        img = "./src/image/personagem-nami.png"
+        img = "image/personagem-nami.png"
         alt = "Nami"
         characterName = "Nami"
         description = "Nami"
         className = "character"
         />
         <Character
-        img = "./src/image/personagem-roronoa-zoro.png"
+        img = "image/personagem-roronoa-zoro.png"
         Alt = "Zoro"
         characterName = "Roronoa Zoro"
         description = "Zoro"
         className = "character"
         />
         <Character
-        img = "./src/image/personagem-sanji.png"
+        img = "image/personagem-sanji.png"
         alt = "Sanji"
         characterName = "Vinsmoke Sanji"
         description = "Sanji"
         className = "character"
         />
         <Character
-        img = "./src/image/personagem-tony-chopper.png"
+        img = "image/personagem-tony-chopper.png"
         alt = "chopper"
         characterName = "Tony Chopper"
         description = "Choper"
