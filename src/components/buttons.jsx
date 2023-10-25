@@ -1,4 +1,7 @@
+
+
 function Buttons(){
+    
 return(
 <ul className="buttons">
         <li>
@@ -27,6 +30,7 @@ return(
             </button>
         </li>
     </ul>
-)}
+)
+}
 
 export default Buttons

@@ -64,7 +64,7 @@ main .character .img{
 }
 
 .content .logo {
-    background-image: url("./image/one-piece-logo.png");
+    background-image: url("../image/one-piece-logo.png");
     background-size: cover;
     height: 100px;
     width: 230px;
